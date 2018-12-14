@@ -16,8 +16,7 @@
 #### JAVASCRIPT RESOURCES
 
 ###### [JavaScript Reference by MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference)
-###### [JavaScript Operator Precedence Table](https://developer.mozilla.org/en-
-US/docs/Web/JavaScript/Reference/Operators/Operator_Precedence)
+###### [JavaScript Operator Precedence](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Operator_Precedence)
 ###### [JavaScript Event Reference](https://developer.mozilla.org/en-US/docs/Web/Events)
 ###### [DOM Manipulation Reference](http://youmightnotneedjquery.com/)
 ###### [JavaScript KeyCodes Reference](http://keycodes.atjayjo.com/)
